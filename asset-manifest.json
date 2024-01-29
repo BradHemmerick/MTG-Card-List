@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MTG-Card-List/static/css/main.492f4b38.css",
+    "main.js": "/MTG-Card-List/static/js/main.f9cf2e95.js",
+    "static/js/787.fda884f4.chunk.js": "/MTG-Card-List/static/js/787.fda884f4.chunk.js",
+    "index.html": "/MTG-Card-List/index.html",
+    "main.492f4b38.css.map": "/MTG-Card-List/static/css/main.492f4b38.css.map",
+    "main.f9cf2e95.js.map": "/MTG-Card-List/static/js/main.f9cf2e95.js.map",
+    "787.fda884f4.chunk.js.map": "/MTG-Card-List/static/js/787.fda884f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492f4b38.css",
+    "static/js/main.f9cf2e95.js"
+  ]
+}
